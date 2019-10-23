@@ -1,4 +1,4 @@
-package number.convrter;
+package number.converter;
 
 import java.util.Map;
 import java.util.TreeMap;
